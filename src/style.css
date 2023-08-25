@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* Container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    font-size: 24px;
+    margin: 0;
+    color: #333;
+  }
+  
+  .role {
+    font-size: 18px;
+    margin: 0;
+    color: #666;
+  }
+  
+  .contact {
+    margin: 5px 0;
+    color: #999;
+  }
+  
+  /* Section */
+  .section {
+    margin-bottom: 30px;
+    border-left: 2px solid #007bff;
+    padding-left: 20px;
+  }
+  
+  /* List */
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
